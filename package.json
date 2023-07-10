@@ -1,0 +1,14 @@
+{
+  "name": "format-date-elena",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Format Date/HTMLEscape",
+  "keywords": [
+    "elena",
+    "dateFormat",
+    "escape"
+  ],
+  "license": "ISC",
+  "dependencies": {
+  }
+}
